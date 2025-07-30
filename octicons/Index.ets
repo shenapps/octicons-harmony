@@ -1,0 +1,625 @@
+export { OctIcon } from './src/main/ets/components/OctIcon'
+
+export const AccessibilityIcon = 'accessibility_24'
+
+export const AccessibilityInsetIcon = 'accessibility_inset_24'
+
+export const AgentIcon = 'agent_24'
+
+export const AiModelIcon = 'ai_model_24'
+
+export const AlertIcon = 'alert_24'
+
+export const AlertFillIcon = 'alert_fill_24'
+
+export const AppsIcon = 'apps_24'
+
+export const ArchiveIcon = 'archive_24'
+
+export const ArrowBothIcon = 'arrow_both_24'
+
+export const ArrowDownIcon = 'arrow_down_24'
+
+export const ArrowDownLeftIcon = 'arrow_down_left_24'
+
+export const ArrowDownRightIcon = 'arrow_down_right_24'
+
+export const ArrowLeftIcon = 'arrow_left_24'
+
+export const ArrowRightIcon = 'arrow_right_24'
+
+export const ArrowSwitchIcon = 'arrow_switch_24'
+
+export const ArrowUpIcon = 'arrow_up_24'
+
+export const ArrowUpLeftIcon = 'arrow_up_left_24'
+
+export const ArrowUpRightIcon = 'arrow_up_right_24'
+
+export const BeakerIcon = 'beaker_24'
+
+export const BellIcon = 'bell_24'
+
+export const BellFillIcon = 'bell_fill_24'
+
+export const BellSlashIcon = 'bell_slash_24'
+
+export const BlockedIcon = 'blocked_24'
+
+export const BoldIcon = 'bold_24'
+
+export const BookIcon = 'book_24'
+
+export const BookmarkIcon = 'bookmark_24'
+
+export const BookmarkFillIcon = 'bookmark_fill_24'
+
+export const BookmarkSlashIcon = 'bookmark_slash_24'
+
+export const BookmarkSlashFillIcon = 'bookmark_slash_fill_24'
+
+export const BriefcaseIcon = 'briefcase_24'
+
+export const BroadcastIcon = 'broadcast_24'
+
+export const BrowserIcon = 'browser_24'
+
+export const BugIcon = 'bug_24'
+
+export const CacheIcon = 'cache_24'
+
+export const CalendarIcon = 'calendar_24'
+
+export const CheckIcon = 'check_24'
+
+export const CheckCircleIcon = 'check_circle_24'
+
+export const CheckCircleFillIcon = 'check_circle_fill_24'
+
+export const CheckboxIcon = 'checkbox_24'
+
+export const ChecklistIcon = 'checklist_24'
+
+export const ChevronDownIcon = 'chevron_down_24'
+
+export const ChevronLeftIcon = 'chevron_left_24'
+
+export const ChevronRightIcon = 'chevron_right_24'
+
+export const ChevronUpIcon = 'chevron_up_24'
+
+export const CircleIcon = 'circle_24'
+
+export const CircleSlashIcon = 'circle_slash_24'
+
+export const ClockIcon = 'clock_24'
+
+export const ClockFillIcon = 'clock_fill_24'
+
+export const CloudIcon = 'cloud_24'
+
+export const CloudOfflineIcon = 'cloud_offline_24'
+
+export const CodeIcon = 'code_24'
+
+export const CodeOfConductIcon = 'code_of_conduct_24'
+
+export const CodeReviewIcon = 'code_review_24'
+
+export const CodeSquareIcon = 'code_square_24'
+
+export const CodescanIcon = 'codescan_24'
+
+export const CodescanCheckmarkIcon = 'codescan_checkmark_24'
+
+export const CodespacesIcon = 'codespaces_24'
+
+export const ColumnsIcon = 'columns_24'
+
+export const CommandPaletteIcon = 'command_palette_24'
+
+export const CommentIcon = 'comment_24'
+
+export const CommentDiscussionIcon = 'comment_discussion_24'
+
+export const ContainerIcon = 'container_24'
+
+export const CopilotIcon = 'copilot_24'
+
+export const CopyIcon = 'copy_24'
+
+export const CpuIcon = 'cpu_24'
+
+export const CreditCardIcon = 'credit_card_24'
+
+export const CrossReferenceIcon = 'cross_reference_24'
+
+export const DashIcon = 'dash_24'
+
+export const DatabaseIcon = 'database_24'
+
+export const DependabotIcon = 'dependabot_24'
+
+export const DesktopDownloadIcon = 'desktop_download_24'
+
+export const DeviceCameraIcon = 'device_camera_24'
+
+export const DeviceCameraVideoIcon = 'device_camera_video_24'
+
+export const DeviceDesktopIcon = 'device_desktop_24'
+
+export const DeviceMobileIcon = 'device_mobile_24'
+
+export const DevicesIcon = 'devices_24'
+
+export const DiamondIcon = 'diamond_24'
+
+export const DiffIcon = 'diff_24'
+
+export const DiffAddedIcon = 'diff_added_24'
+
+export const DiffIgnoredIcon = 'diff_ignored_24'
+
+export const DiffModifiedIcon = 'diff_modified_24'
+
+export const DiffRemovedIcon = 'diff_removed_24'
+
+export const DiffRenamedIcon = 'diff_renamed_24'
+
+export const DiscussionClosedIcon = 'discussion_closed_24'
+
+export const DiscussionDuplicateIcon = 'discussion_duplicate_24'
+
+export const DiscussionOutdatedIcon = 'discussion_outdated_24'
+
+export const DotIcon = 'dot_24'
+
+export const DotFillIcon = 'dot_fill_24'
+
+export const DownloadIcon = 'download_24'
+
+export const DuplicateIcon = 'duplicate_24'
+
+export const EllipsisIcon = 'ellipsis_24'
+
+export const EyeIcon = 'eye_24'
+
+export const EyeClosedIcon = 'eye_closed_24'
+
+export const FileIcon = 'file_24'
+
+export const FileAddedIcon = 'file_added_24'
+
+export const FileBadgeIcon = 'file_badge_24'
+
+export const FileBinaryIcon = 'file_binary_24'
+
+export const FileCodeIcon = 'file_code_24'
+
+export const FileDiffIcon = 'file_diff_24'
+
+export const FileDirectoryIcon = 'file_directory_24'
+
+export const FileDirectoryFillIcon = 'file_directory_fill_24'
+
+export const FileDirectoryOpenFillIcon = 'file_directory_open_fill_24'
+
+export const FileDirectorySymlinkIcon = 'file_directory_symlink_24'
+
+export const FileMediaIcon = 'file_media_24'
+
+export const FileMovedIcon = 'file_moved_24'
+
+export const FileRemovedIcon = 'file_removed_24'
+
+export const FileSubmoduleIcon = 'file_submodule_24'
+
+export const FileSymlinkFileIcon = 'file_symlink_file_24'
+
+export const FileZipIcon = 'file_zip_24'
+
+export const FilterIcon = 'filter_24'
+
+export const FilterRemoveIcon = 'filter_remove_24'
+
+export const FiscalHostIcon = 'fiscal_host_24'
+
+export const FlameIcon = 'flame_24'
+
+export const FoldIcon = 'fold_24'
+
+export const FoldDownIcon = 'fold_down_24'
+
+export const FoldUpIcon = 'fold_up_24'
+
+export const GearIcon = 'gear_24'
+
+export const GiftIcon = 'gift_24'
+
+export const GitBranchIcon = 'git_branch_24'
+
+export const GitCommitIcon = 'git_commit_24'
+
+export const GitCompareIcon = 'git_compare_24'
+
+export const GitMergeIcon = 'git_merge_24'
+
+export const GitMergeQueueIcon = 'git_merge_queue_24'
+
+export const GitPullRequestIcon = 'git_pull_request_24'
+
+export const GitPullRequestClosedIcon = 'git_pull_request_closed_24'
+
+export const GitPullRequestDraftIcon = 'git_pull_request_draft_24'
+
+export const GlobeIcon = 'globe_24'
+
+export const GoalIcon = 'goal_24'
+
+export const GrabberIcon = 'grabber_24'
+
+export const GraphIcon = 'graph_24'
+
+export const HashIcon = 'hash_24'
+
+export const HeadingIcon = 'heading_24'
+
+export const HeartIcon = 'heart_24'
+
+export const HeartFillIcon = 'heart_fill_24'
+
+export const HistoryIcon = 'history_24'
+
+export const HomeIcon = 'home_24'
+
+export const HomeFillIcon = 'home_fill_24'
+
+export const HorizontalRuleIcon = 'horizontal_rule_24'
+
+export const HourglassIcon = 'hourglass_24'
+
+export const HubotIcon = 'hubot_24'
+
+export const IdBadgeIcon = 'id_badge_24'
+
+export const ImageIcon = 'image_24'
+
+export const InboxIcon = 'inbox_24'
+
+export const InfinityIcon = 'infinity_24'
+
+export const InfoIcon = 'info_24'
+
+export const IssueClosedIcon = 'issue_closed_24'
+
+export const IssueDraftIcon = 'issue_draft_24'
+
+export const IssueOpenedIcon = 'issue_opened_24'
+
+export const IssueReopenedIcon = 'issue_reopened_24'
+
+export const IssueTrackedByIcon = 'issue_tracked_by_24'
+
+export const IssueTracksIcon = 'issue_tracks_24'
+
+export const ItalicIcon = 'italic_24'
+
+export const IterationsIcon = 'iterations_24'
+
+export const KebabHorizontalIcon = 'kebab_horizontal_24'
+
+export const KeyIcon = 'key_24'
+
+export const KeyAsteriskIcon = 'key_asterisk_24'
+
+export const LawIcon = 'law_24'
+
+export const LightBulbIcon = 'light_bulb_24'
+
+export const LinkIcon = 'link_24'
+
+export const LinkExternalIcon = 'link_external_24'
+
+export const ListOrderedIcon = 'list_ordered_24'
+
+export const ListUnorderedIcon = 'list_unordered_24'
+
+export const LocationIcon = 'location_24'
+
+export const LockIcon = 'lock_24'
+
+export const LogIcon = 'log_24'
+
+export const LogoGistIcon = 'logo_gist_24'
+
+export const LogoGithubIcon = 'logo_github_24'
+
+export const LoopIcon = 'loop_24'
+
+export const MailIcon = 'mail_24'
+
+export const MarkGithubIcon = 'mark_github_24'
+
+export const MarkdownIcon = 'markdown_24'
+
+export const MegaphoneIcon = 'megaphone_24'
+
+export const MentionIcon = 'mention_24'
+
+export const MeterIcon = 'meter_24'
+
+export const MilestoneIcon = 'milestone_24'
+
+export const MirrorIcon = 'mirror_24'
+
+export const MoonIcon = 'moon_24'
+
+export const MortarBoardIcon = 'mortar_board_24'
+
+export const MoveToBottomIcon = 'move_to_bottom_24'
+
+export const MoveToEndIcon = 'move_to_end_24'
+
+export const MoveToStartIcon = 'move_to_start_24'
+
+export const MoveToTopIcon = 'move_to_top_24'
+
+export const MultiSelectIcon = 'multi_select_24'
+
+export const MuteIcon = 'mute_24'
+
+export const NoEntryIcon = 'no_entry_24'
+
+export const NorthStarIcon = 'north_star_24'
+
+export const NoteIcon = 'note_24'
+
+export const NumberIcon = 'number_24'
+
+export const OrganizationIcon = 'organization_24'
+
+export const PackageIcon = 'package_24'
+
+export const PackageDependenciesIcon = 'package_dependencies_24'
+
+export const PackageDependentsIcon = 'package_dependents_24'
+
+export const PaintbrushIcon = 'paintbrush_24'
+
+export const PaperAirplaneIcon = 'paper_airplane_24'
+
+export const PaperclipIcon = 'paperclip_24'
+
+export const PasskeyFillIcon = 'passkey_fill_24'
+
+export const PasteIcon = 'paste_24'
+
+export const PauseIcon = 'pause_24'
+
+export const PencilIcon = 'pencil_24'
+
+export const PeopleIcon = 'people_24'
+
+export const PersonIcon = 'person_24'
+
+export const PersonAddIcon = 'person_add_24'
+
+export const PersonFillIcon = 'person_fill_24'
+
+export const PinIcon = 'pin_24'
+
+export const PinSlashIcon = 'pin_slash_24'
+
+export const PivotColumnIcon = 'pivot_column_24'
+
+export const PlayIcon = 'play_24'
+
+export const PlugIcon = 'plug_24'
+
+export const PlusIcon = 'plus_24'
+
+export const PlusCircleIcon = 'plus_circle_24'
+
+export const ProjectIcon = 'project_24'
+
+export const ProjectRoadmapIcon = 'project_roadmap_24'
+
+export const ProjectSymlinkIcon = 'project_symlink_24'
+
+export const ProjectTemplateIcon = 'project_template_24'
+
+export const PulseIcon = 'pulse_24'
+
+export const QuestionIcon = 'question_24'
+
+export const QuoteIcon = 'quote_24'
+
+export const ReadIcon = 'read_24'
+
+export const RedoIcon = 'redo_24'
+
+export const RelFilePathIcon = 'rel_file_path_24'
+
+export const ReplyIcon = 'reply_24'
+
+export const RepoIcon = 'repo_24'
+
+export const RepoCloneIcon = 'repo_clone_24'
+
+export const RepoDeleteIcon = 'repo_delete_24'
+
+export const RepoForkedIcon = 'repo_forked_24'
+
+export const RepoLockedIcon = 'repo_locked_24'
+
+export const RepoPullIcon = 'repo_pull_24'
+
+export const RepoPushIcon = 'repo_push_24'
+
+export const RepoTemplateIcon = 'repo_template_24'
+
+export const ReportIcon = 'report_24'
+
+export const RocketIcon = 'rocket_24'
+
+export const RowsIcon = 'rows_24'
+
+export const RssIcon = 'rss_24'
+
+export const RubyIcon = 'ruby_24'
+
+export const ScreenFullIcon = 'screen_full_24'
+
+export const ScreenNormalIcon = 'screen_normal_24'
+
+export const SearchIcon = 'search_24'
+
+export const ServerIcon = 'server_24'
+
+export const ShareIcon = 'share_24'
+
+export const ShareAndroidIcon = 'share_android_24'
+
+export const ShieldIcon = 'shield_24'
+
+export const ShieldCheckIcon = 'shield_check_24'
+
+export const ShieldLockIcon = 'shield_lock_24'
+
+export const ShieldSlashIcon = 'shield_slash_24'
+
+export const ShieldXIcon = 'shield_x_24'
+
+export const SidebarCollapseIcon = 'sidebar_collapse_24'
+
+export const SidebarExpandIcon = 'sidebar_expand_24'
+
+export const SignInIcon = 'sign_in_24'
+
+export const SignOutIcon = 'sign_out_24'
+
+export const SingleSelectIcon = 'single_select_24'
+
+export const SkipIcon = 'skip_24'
+
+export const SkipFillIcon = 'skip_fill_24'
+
+export const SlidersIcon = 'sliders_24'
+
+export const SmileyIcon = 'smiley_24'
+
+export const SortAscIcon = 'sort_asc_24'
+
+export const SortDescIcon = 'sort_desc_24'
+
+export const SpaceIcon = 'space_24'
+
+export const SparkleIcon = 'sparkle_24'
+
+export const SparkleFillIcon = 'sparkle_fill_24'
+
+export const SparklesFillIcon = 'sparkles_fill_24'
+
+export const SponsorTiersIcon = 'sponsor_tiers_24'
+
+export const SquareIcon = 'square_24'
+
+export const SquareCircleIcon = 'square_circle_24'
+
+export const SquareFillIcon = 'square_fill_24'
+
+export const SquirrelIcon = 'squirrel_24'
+
+export const StackIcon = 'stack_24'
+
+export const StarIcon = 'star_24'
+
+export const StarFillIcon = 'star_fill_24'
+
+export const StopIcon = 'stop_24'
+
+export const StopwatchIcon = 'stopwatch_24'
+
+export const StrikethroughIcon = 'strikethrough_24'
+
+export const SunIcon = 'sun_24'
+
+export const SyncIcon = 'sync_24'
+
+export const TabIcon = 'tab_24'
+
+export const TabExternalIcon = 'tab_external_24'
+
+export const TableIcon = 'table_24'
+
+export const TagIcon = 'tag_24'
+
+export const TasklistIcon = 'tasklist_24'
+
+export const TelescopeIcon = 'telescope_24'
+
+export const TelescopeFillIcon = 'telescope_fill_24'
+
+export const TerminalIcon = 'terminal_24'
+
+export const ThreeBarsIcon = 'three_bars_24'
+
+export const ThumbsdownIcon = 'thumbsdown_24'
+
+export const ThumbsupIcon = 'thumbsup_24'
+
+export const ToolsIcon = 'tools_24'
+
+export const TrackedByClosedCompletedIcon = 'tracked_by_closed_completed_24'
+
+export const TrackedByClosedNotPlannedIcon = 'tracked_by_closed_not_planned_24'
+
+export const TrashIcon = 'trash_24'
+
+export const TriangleDownIcon = 'triangle_down_24'
+
+export const TriangleLeftIcon = 'triangle_left_24'
+
+export const TriangleRightIcon = 'triangle_right_24'
+
+export const TriangleUpIcon = 'triangle_up_24'
+
+export const TrophyIcon = 'trophy_24'
+
+export const TypographyIcon = 'typography_24'
+
+export const UndoIcon = 'undo_24'
+
+export const UnfoldIcon = 'unfold_24'
+
+export const UnlinkIcon = 'unlink_24'
+
+export const UnlockIcon = 'unlock_24'
+
+export const UnmuteIcon = 'unmute_24'
+
+export const UnreadIcon = 'unread_24'
+
+export const UnverifiedIcon = 'unverified_24'
+
+export const UploadIcon = 'upload_24'
+
+export const VerifiedIcon = 'verified_24'
+
+export const VersionsIcon = 'versions_24'
+
+export const VideoIcon = 'video_24'
+
+export const WorkflowIcon = 'workflow_24'
+
+export const XIcon = 'x_24'
+
+export const XCircleIcon = 'x_circle_24'
+
+export const XCircleFillIcon = 'x_circle_fill_24'
+
+export const ZapIcon = 'zap_24'
+
+export const ZoomInIcon = 'zoom_in_24'
+
+export const ZoomOutIcon = 'zoom_out_24'
