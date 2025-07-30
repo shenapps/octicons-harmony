@@ -13,7 +13,7 @@ ohpm install @isfk/octicons
 ## 使用
 
 ```ts
-import { AppsIcon, OctIcon } from 'octicons';
+import { AppsIcon, OctIcon } from '@isfk/octicons';
 
 @Entry
 @Component

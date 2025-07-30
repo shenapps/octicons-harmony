@@ -1,4 +1,4 @@
-import { AppsIcon, OctIcon } from 'octicons';
+import { AppsIcon, OctIcon } from '@isfk/octicons';
 
 @Entry
 @Component
