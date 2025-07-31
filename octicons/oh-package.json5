@@ -1,9 +1,9 @@
 {
   "name": "@isfk/octicons",
   "version": "1.0.0",
-  "description": "Please describe the basic information.",
+  "description": "Use Octicons in HarmonyOS Next",
   "main": "Index.ets",
-  "author": "",
+  "author": "isfk",
   "license": "Apache-2.0",
   "dependencies": {}
 }
