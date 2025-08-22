@@ -6,7 +6,7 @@
   "author": "",
   "license": "",
   "dependencies": {
-    "@isfk/octicons": "file:../octicons/build/default/outputs/default/octicons.har"
+    "@isfk/octicons": "1.0.0"
   }
 }
 
