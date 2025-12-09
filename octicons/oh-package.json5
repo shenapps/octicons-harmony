@@ -1,6 +1,6 @@
 {
   "name": "@isfk/octicons",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Use Octicons in HarmonyOS Next",
   "main": "Index.ets",
   "author": "isfk",
