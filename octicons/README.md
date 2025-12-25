@@ -1,6 +1,9 @@
 # octicons
 
+
 > 在项目中使用 [octicons](https://github.com/primer/octicons) 图标
+
+> 已同步 `v19.21.1` 版本
 
 > 使用了尺寸为 `24` 的 `svg` 资源
 

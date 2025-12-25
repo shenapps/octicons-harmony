@@ -1,6 +1,10 @@
 # ChangeLog
 
-# v1.0.2 Release
+# v1.0.3 Release
+
+v1.0.3 发布，同步`v19.21.1`版本，增加`30+`个图标
+
+## v1.0.2 Release
 
 v1.0.2 发布，降低Api版本要求
 
