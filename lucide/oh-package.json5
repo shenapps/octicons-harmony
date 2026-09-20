@@ -1,0 +1,19 @@
+{
+  "name": "@isfk/lucide",
+  "version": "1.0.0",
+  "description": "Use lucide icons in HarmonyOS Next",
+  "main": "Index.ets",
+  "author": {
+    "name": "isfk",
+    "url": "https://github.com/isfk"
+  },
+  "license": "ISC",
+  "dependencies": {},
+  "keywords": [
+    "lucide",
+    "icon",
+    "svg"
+  ],
+  "homepage": "https://lucide.dev",
+  "repository": "https://github.com/shenapps/octicons-harmony"
+}

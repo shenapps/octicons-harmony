@@ -18,7 +18,7 @@
     ],
     "buildModeSet": [
       {
-        "name": "debug",
+        "name": "debug"
       },
       {
         "name": "release"
@@ -40,7 +40,11 @@
     },
     {
       "name": "octicons",
-      "srcPath": "./octicons",
+      "srcPath": "./octicons"
+    },
+    {
+      "name": "lucide",
+      "srcPath": "./lucide"
     }
   ]
 }

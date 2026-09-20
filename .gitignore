@@ -13,6 +13,7 @@
 
 # 同步脚本的 tarball 缓存
 .octicons-cache/
+.lucide-cache/
 
 # macOS Finder 垃圾，会被 hvigor 打进 HAR
 .DS_Store
