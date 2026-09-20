@@ -1,5 +1,9 @@
 # ChangeLog
 
+# v1.0.4 Release
+
+v1.0.4 发布，同步`v19.38.0`版本，增加`20`个图标，`logo_github`/`mark_github` 跟随上游更新图形
+
 # v1.0.3 Release
 
 v1.0.3 发布，同步`v19.21.1`版本，增加`30+`个图标
