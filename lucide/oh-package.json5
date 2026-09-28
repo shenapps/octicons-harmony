@@ -1,6 +1,6 @@
 {
   "name": "@isfk/lucide",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Use lucide icons in HarmonyOS Next",
   "main": "Index.ets",
   "author": {
